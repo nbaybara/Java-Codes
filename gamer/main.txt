@@ -1,0 +1,11 @@
+package com.nur;
+
+public class Main {
+
+    public static void main(String[] args) {
+        Gamer player = new Gamer(); //new object from Gamer
+        Gamer computer = new Gamer(); //new objct form Gamer
+
+        Arena a= new Arena(player, computer);
+    }
+}

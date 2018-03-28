@@ -1,0 +1,7 @@
+package com.nur;
+
+public enum HandSign {
+    SCISSOR ,
+    STONE ,
+    PAPER ;
+}
